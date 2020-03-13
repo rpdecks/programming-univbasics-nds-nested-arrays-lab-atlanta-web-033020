@@ -42,7 +42,7 @@ def matrix_lookup(matrix, row, column)
   
   matrix[row][column]
   matrix
-  #binding.pry
+  binding.pry
   
 end
 
