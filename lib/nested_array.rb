@@ -50,6 +50,6 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
   
   new_value
-  binding.pry
+  #binding.pry
   matrix[row][column] = `new_value`
 end
