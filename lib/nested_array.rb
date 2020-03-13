@@ -41,8 +41,7 @@ def matrix_lookup(matrix, row, column)
   # Return the matrix's content at that row and and column
   
   matrix[row][column]
-  #binding.pry
-  
+
 end
 
 def matrix_update(matrix, row, column, new_value)
